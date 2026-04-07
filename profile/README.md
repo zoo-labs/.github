@@ -20,8 +20,8 @@ npm run dev
 
 | Project | Description |
 |---------|-------------|
-| [zoo](https://github.com/zoo-labs/zoo) | Zoo ecosystem — decentralized AI research network |
-| [game](https://github.com/zoo-labs/game) | Zoo game — interactive AI experience |
+| [zoo](https://github.com/zoo-labs/zoo) | Zoo ecosystem -- decentralized AI research network |
+| [game](https://github.com/zoo-labs/game) | Zoo game -- interactive AI experience |
 
 ## Key Protocols
 
@@ -34,18 +34,29 @@ npm run dev
 
 Research priorities and protocol changes are governed through ZIPs (Zoo Improvement Proposals) at [zips.zoo.ngo](https://zips.zoo.ngo).
 
-## Related Organizations
+## Ecosystem
 
-| Organization | Focus |
-|--------------|-------|
-| [Hanzo AI](https://github.com/hanzoai) | AI infrastructure — LLM gateway, MCP, agents |
-| [Zen LM](https://github.com/zenlm) | Frontier language models (600M-480B params) |
-| [Lux Network](https://github.com/luxfi) | Post-quantum blockchain, FHE, cross-chain |
+| Organization | Focus | Link |
+|---|---|---|
+| **Hanzo AI** | AI infrastructure, LLM gateway, MCP tools | [github.com/hanzoai](https://github.com/hanzoai) |
+| **Lux Network** | Post-quantum blockchain, FHE, multi-consensus | [github.com/luxfi](https://github.com/luxfi) |
+| **Zen LM** | Frontier language models, 600M-480B parameters | [github.com/zenlm](https://github.com/zenlm) |
+| **Zoo Labs** | Open AI research, DeSci, 501(c)(3) foundation | [github.com/zoo-labs](https://github.com/zoo-labs) |
+| **Lux FHE** | Fully homomorphic encryption research + SDK | [github.com/luxfhe](https://github.com/luxfhe) |
+| **Lux C++** | High-performance C++ libraries | [github.com/luxcpp](https://github.com/luxcpp) |
+| **Hanzo KMS** | Enterprise secret management | [github.com/hanzokms](https://github.com/hanzokms) |
+| **Hanzo ID** | Identity, OAuth2/OIDC, WebAuthn | [github.com/hanzoid](https://github.com/hanzoid) |
+
+### Links
+- [Papers](https://github.com/luxfi/papers) -- 329+ research papers
+- [Stats](https://zeekay.github.io/stats/) -- 38,906+ commits, 59M net LOC
+- [Security](https://github.com/luxfi/node/blob/main/SECURITY.md) -- cryptographic audit trail
+- [History](https://github.com/luxfi/node/blob/main/HISTORY.md) -- 2008-2026 timeline
 
 ## Resources
 
-- [zoo.ngo](https://zoo.ngo) — Foundation website
-- [zips.zoo.ngo](https://zips.zoo.ngo) — Governance proposals
+- [zoo.ngo](https://zoo.ngo) -- Foundation website
+- [zips.zoo.ngo](https://zips.zoo.ngo) -- Governance proposals
 
 Apache 2.0 -- See individual repositories for details.
 
